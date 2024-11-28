@@ -1,0 +1,14 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>in.mshitlearner</groupId>
+  <artifactId>springcloud_eureka</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <packaging>pom</packaging>
+  <name>springcloud_eureka</name>
+  <description>Spring Clound Eureka Server Configuration</description>
+  <modules>
+  	<module>eureka_server_config</module>
+  	<module>payment_service</module>
+  	<module>shopping_service</module>
+  </modules>
+</project>

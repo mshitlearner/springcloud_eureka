@@ -1,0 +1,4 @@
+in\mshitlearner\client\PaymentClient.class
+in\mshitlearner\config\OpenFeignRetryerConfig.class
+in\mshitlearner\controller\ShoppingController.class
+in\mshitlearner\ShoppingServiceApplication.class
